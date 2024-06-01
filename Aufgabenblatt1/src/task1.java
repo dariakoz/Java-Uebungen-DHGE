@@ -1,4 +1,4 @@
-public class App {
+public class task1 {
     public static void main(String[] args) throws Exception {
 
         // HiWI
